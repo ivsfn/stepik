@@ -10,5 +10,5 @@ driver = webdriver.Chrome()
 time.sleep(5)
 
 # Метод get сообщает браузеру, что нужно открыть сайт по указанной ссылке
-driver.get("https://stepik.org/lesson/25969/step/12")
+driver.get("https://stepik.org/lesson/25969/step/11")
 
